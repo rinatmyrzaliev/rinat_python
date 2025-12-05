@@ -1,3 +1,5 @@
+# This function checks if you are tall enough and how much you need to pay depending your age 
+
 print("Welcome to the rollercoaster!")
 height = int(input("What is your height in cm? "))
 
